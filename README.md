@@ -30,11 +30,11 @@ Please find detailed Project report [here](https://drive.google.com/file/d/16szZ
 ## Screenshots and Features
 
 <img src="images/map4.png" alt="drawing" height="600" width="300"/> <img src="images/map2.png" alt="drawing" height="600" width="300"/> <img src="images/map3.png" alt="drawing" height="600" width="300"/>
-<img src="images/map3.png" alt="drawing" height="600" width="400"/> 
-<img src="images/confirm.png" alt="drawing" height="600" width="400"/> <img src="images/recommendation.png" alt="drawing" height="600" width="400"/>
-<img src="images/intro.png" alt="drawing" height="600" width="400"/> <img src="images/signup.png" alt="drawing" height="600" width="400"/>
-<img src="images/homepage1.png" alt="drawing" height="600" width="400"/> <img src="images/services.png" alt="drawing" height="600" width="400"/>
-<img src="images/signin.png" alt="drawing" height="600" width="400"/>
+<img src="images/map3.png" alt="drawing" height="600" width="300"/> 
+<img src="images/confirm.png" alt="drawing" height="600" width="300"/> <img src="images/recommendation.png" alt="drawing" height="600" width="300"/>
+<img src="images/intro.png" alt="drawing" height="600" width="300"/> <img src="images/signup.png" alt="drawing" height="600" width="300"/>
+<img src="images/homepage1.png" alt="drawing" height="600" width="300"/> <img src="images/services.png" alt="drawing" height="600" width="300"/>
+<img src="images/signin.png" alt="drawing" height="600" width="300"/>
 
 
 
